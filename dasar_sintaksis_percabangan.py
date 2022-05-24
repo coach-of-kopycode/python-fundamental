@@ -29,3 +29,5 @@ if jumlah_botol_susu > 0:
 else:
     print('barang yang ingin dibeli budi tidak ada')
     print('budi pulang kerumah')
+    print('budi menyampaikan ke ibu')
+
